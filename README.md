@@ -1,6 +1,8 @@
 ## Sistema de Estoque
 
-### Programa feito com Python, Tkinter, Proxlight, SQLite
+### Programa criado com as tecnologias: Python, Tkinter, Proxlight, SQLite
+
+
 
 
 
